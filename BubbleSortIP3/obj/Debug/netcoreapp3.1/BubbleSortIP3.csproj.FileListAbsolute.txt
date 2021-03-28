@@ -1,0 +1,13 @@
+C:\Users\José\source\repos\BubbleSortIP3\bin\Debug\netcoreapp3.1\BubbleSortIP3.exe
+C:\Users\José\source\repos\BubbleSortIP3\bin\Debug\netcoreapp3.1\BubbleSortIP3.deps.json
+C:\Users\José\source\repos\BubbleSortIP3\bin\Debug\netcoreapp3.1\BubbleSortIP3.runtimeconfig.json
+C:\Users\José\source\repos\BubbleSortIP3\bin\Debug\netcoreapp3.1\BubbleSortIP3.runtimeconfig.dev.json
+C:\Users\José\source\repos\BubbleSortIP3\bin\Debug\netcoreapp3.1\BubbleSortIP3.dll
+C:\Users\José\source\repos\BubbleSortIP3\bin\Debug\netcoreapp3.1\BubbleSortIP3.pdb
+C:\Users\José\source\repos\BubbleSortIP3\obj\Debug\netcoreapp3.1\BubbleSortIP3.csprojAssemblyReference.cache
+C:\Users\José\source\repos\BubbleSortIP3\obj\Debug\netcoreapp3.1\BubbleSortIP3.AssemblyInfoInputs.cache
+C:\Users\José\source\repos\BubbleSortIP3\obj\Debug\netcoreapp3.1\BubbleSortIP3.AssemblyInfo.cs
+C:\Users\José\source\repos\BubbleSortIP3\obj\Debug\netcoreapp3.1\BubbleSortIP3.csproj.CoreCompileInputs.cache
+C:\Users\José\source\repos\BubbleSortIP3\obj\Debug\netcoreapp3.1\BubbleSortIP3.dll
+C:\Users\José\source\repos\BubbleSortIP3\obj\Debug\netcoreapp3.1\BubbleSortIP3.pdb
+C:\Users\José\source\repos\BubbleSortIP3\obj\Debug\netcoreapp3.1\BubbleSortIP3.genruntimeconfig.cache

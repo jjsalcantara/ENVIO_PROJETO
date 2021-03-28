@@ -1,0 +1,35 @@
+Respostas das questões :
+
+Questão 1:
+
+Resposta : 
+
+Opção E - XMLHttpRequest
+
+
+Questão 2:
+
+Resposta : Criada uma Solution
+
+--> MenuBuilder-master
+
+Questão 3: Criada Solution
+
+--> CalculoIP3
+
+Questão 4: Criada Solution
+
+--> BubbleSortIP3
+
+Criada app realizando o bubble sort. Não foi considerado vetor de verores devido a falta de tempo
+para pequisar como realizar tal busca usando alguma tecnologia específica.
+
+Pois para realizar seria necessário idenificar dentro do vetoro o que é simples valor e o que é outro vetor.
+
+Questõ 5 : Não realizada. Sem tempo para criar um projeto frot end e outro projeto com os serviços e fazer  um 
+projeto chamar os serviços . Estou trabalha do aos finais de semana, sem muito temp disponível. Por isto o que eu 
+pude fazer está neste envio. 
+
+
+Todos os códigos enviado são executáveis.
+
